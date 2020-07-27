@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bill and I currently live in Athens, where I'm often hanging out with friends, crossfit, producing music, writing code or relaxing in a Mediterranean beach. I'm enthusiastic about modern programming languages, animations and architecture. Nowadays I mostly write Kotlin but I do small steps to be full stack.
+I'm Vasilis and I currently live in Athens, where I'm often hanging out with friends, crossfit, producing music, writing code or relaxing in a Mediterranean beach lured with some lime margaritas. I'm enthusiastic about modern programming languages, animations and reactive architectures. Nowadays I mostly write Kotlin but I do small steps to be full stack.
 
 I've worked with Android for several years! Currently I am leading the Android team at Workable.
 
