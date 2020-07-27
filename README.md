@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Bill and I currently live in Athens, where I'm often hanging out with friends, crossfit, producing music, writing code or relaxing in a Mediterranean beach. I'm enthusiastic about modern programming languages, animations and architecture. Nowadays I mostly write Kotlin but I do small steps to be full stack.
+
+I've worked with Android for several years! Currently I am leading the Android team at Workable.
+
+You can reach out to me via [linkedin](https://www.linkedin.com/in/charalampakisvasilis/) and I'll try my best to get back to you. If at first I don't reply, try emailing me again 🙂. 
+
+I'm also into contributing to open source. Sometimes I write short articles on my [blog](https://medium.com/@charbgr).
+
 <!--
 **charbgr/charbgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
