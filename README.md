@@ -1,26 +1,24 @@
-### Hi there 👋
+### Hello there 👋
 
-I'm Vasilis and I currently live in Athens, where I'm often hanging out with friends, crossfit, producing music, writing code or relaxing in a Mediterranean beach lured with some lime margaritas.
+#### A Full-Stack Engineer by day ☼ and Gamer wizard by night ☾
 
-I'm enthusiastic about modern programming languages, animations and reactive architectures. Nowadays I mostly write Kotlin but I do small steps to be full stack.
+Full-Stack Engineer at [Blueground](https://www.theblueground.com/);<br>
+Ex-leader of Android team at [Workable](https://www.workable.com/);
 
-I've worked with Android for several years! Currently I am working at [Blueground](https://www.theblueground.com/). Previously I was leading the Android team at Workable.
+- ⚙️ I use daily: `.kt`, `.kts`, `.java`, `.sql`.
+- 🌍 I'm mostly active within the Android Community.
+- 💯 Enthusiastic about engineering, modern programming languages and architecture designs.
+- 🍹 Relaxing in a Mediterranean beach lured with some lime margaritas 🍹 and surf board 🏄.
+- 💬 `ping` me about **android**, **backend**, **gradle**, **development**, **design thinking**.
 
-You can reach out to me via [LinkedIn](https://www.linkedin.com/in/charalampakisvasilis/) and I'll try my best to get back to you. If at first I don't reply, try emailing me again 🙂. 
+----
 
-I'm also into contributing to open source. Sometimes I write short articles on my [blog](https://medium.com/@charbgr).
-
-<!--
-**charbgr/charbgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/charalampakisvasilis">
+  <img align="left" alt="Vasilis' LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://twitter.com/charbgr">
+  <img align="left" alt="Vasilis' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://medium.com/@charbgr">
+  <img align="left" alt="Vasilis' Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
+</a>
