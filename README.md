@@ -16,8 +16,8 @@ Ex-leader of Android team at [Workable](https://www.workable.com/);
 <a href="https://www.linkedin.com/in/charalampakisvasilis">
   <img align="left" alt="Vasilis' LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://twitter.com/charbgr">
-  <img align="left" alt="Vasilis' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://x.com/charbgr">
+  <img align="left" alt="Vasilis' Twitter" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
 </a>
 <a href="https://medium.com/@charbgr">
   <img align="left" alt="Vasilis' Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
