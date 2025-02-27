@@ -14,11 +14,11 @@ Ex-leader of Android team at [Workable](https://www.workable.com/);
 ----
 
 <a href="https://www.linkedin.com/in/charalampakisvasilis">
-  <img align="left" alt="Vasilis' LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Vasilis' Charalampakis LinkedIn" width="20px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w480-h960-rw" />
 </a>
 <a href="https://x.com/charbgr">
-  <img align="left" alt="Vasilis' Twitter" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
+  <img align="left" alt="Vasilis' Charalampakis X" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
 </a>
 <a href="https://medium.com/@charbgr">
-  <img align="left" alt="Vasilis' Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
+  <img align="left" alt="Vasilis' Charalampakis Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
 </a>
