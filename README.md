@@ -2,6 +2,7 @@
 
 #### A Full-Stack Engineer by day ☼ and Gamer wizard by night ☾
 
+Software Engineer at [Fanatics]([https://www.theblueground.com/](https://www.fanatics.live/));<br>
 Full-Stack Engineer at [Blueground](https://www.theblueground.com/);<br>
 Ex-leader of Android team at [Workable](https://www.workable.com/);
 
