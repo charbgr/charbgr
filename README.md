@@ -2,9 +2,9 @@
 
 #### A Full-Stack Engineer by day ☼ and Gamer wizard by night ☾
 
-Software Engineer at [Fanatics]([https://www.theblueground.com/](https://www.fanatics.live/));<br>
-Full-Stack Engineer at [Blueground](https://www.theblueground.com/);<br>
-Ex-leader of Android team at [Workable](https://www.workable.com/);
+Software Engineer at [Fanatics](https://www.fanatics.live/);<br>
+Ex - Full-Stack Engineer at [Blueground](https://www.theblueground.com/);<br>
+Ex - Leader of Android team at [Workable](https://www.workable.com/);
 
 - ⚙️ I use daily: `.kt`, `.kts`, `.java`, `.sql`.
 - 🌍 I'm mostly active within the Android Community.
